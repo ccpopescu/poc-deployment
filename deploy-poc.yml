@@ -1,0 +1,4 @@
+---
+
+#---Elastic Stack----------------------------------------
+- import_playbook: data-layer/deploy-elastic.yml
