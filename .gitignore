@@ -1,0 +1,7 @@
+*.retry
+*.pyc
+*.swp
+.vs/*
+.vscode/*
+_facts/*
+
