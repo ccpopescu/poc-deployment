@@ -4,4 +4,4 @@
 - import_playbook: os-layer/deploy-baseline.yml
 
 #---Elastic Stack----------------------------------------
-#- import_playbook: data-layer/deploy-elastic.yml
+- import_playbook: data-layer/deploy-elastic.yml
