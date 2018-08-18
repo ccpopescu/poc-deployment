@@ -1,3 +1,6 @@
 [submodule "data-layer"]
 	path = data-layer
 	url = https://github.com/ccpopescu/data-layer-deployment.git
+[submodule "os-layer"]
+	path = os-layer
+	url = https://github.com/ccpopescu/os-layer-deployment.git
